@@ -1,3 +1,6 @@
 # NFT_THCS_PTIT
-# NFT_THCS_PTIT
-# NFT_THCS_PTIT_21_22
+
+Kết hợp với iot_MCB
+
+Lấy data từ MySQL
+
